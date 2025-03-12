@@ -14,7 +14,9 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-size: 1em
+    font-size: 1em;
+    box-sizing: border-box;
+    max-width: 100%;
    
 }
 body{
