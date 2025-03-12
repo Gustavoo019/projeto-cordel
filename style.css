@@ -82,7 +82,8 @@ section.imagem>p{
     padding: 5px;
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.514);
-    width: 400px;
+    width: auto;
+    max-width: 90%;
     text-shadow: 1px 1px 0px black ;
 }
 section#img01{
