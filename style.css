@@ -23,7 +23,7 @@ body{
     overflow-x: hidden;  /*escoder uma borda do lado direito*/
 }
 html, body{
-    min-height: 100vh;
+    max-height: 100vh;
     background-color: darkgray;
     font-family: var(--font1);
 }
